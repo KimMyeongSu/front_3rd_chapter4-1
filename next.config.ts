@@ -12,6 +12,7 @@ const nextConfig: NextConfig = {
     ],
     unoptimized: true,
   },
+  compress: true,
 }
 
 export default nextConfig
